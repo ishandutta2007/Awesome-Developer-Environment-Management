@@ -49,9 +49,9 @@ Below is a curated overview of hosted enterprise SaaS platforms for developer en
 
 ## 🔓 Open-Source GitHub Projects
 
-Top open-source projects for Developer Environment Management, ranked by **GitHub Star Count (descending)** ⭐.
+Top open-source projects for Developer Environment Management, ranked by **GitHub Stars_Count (descending)** ⭐.
 
-| 📦 Project & Repo Link | ⭐ Star Count Badge | 📜 License | 🎯 Category & Description |
+| 📦 Project & Repo Link | ⭐ Stars_Count Badge | 📜 License | 🎯 Category & Description |
 | :--- | :--- | :--- | :--- |
 | **[code-server](https://github.com/coder/code-server)** 🖥️ | [<img src="https://img.shields.io/github/stars/coder/code-server?style=social&color=white" alt="code-server stars"/>](https://github.com/coder/code-server/stargazers) | MIT | **Web IDE**: Runs VS Code in any browser on a remote server or container. |
 | **[Daytona](https://github.com/daytonaio/daytona)** ⚡ | [<img src="https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white" alt="Daytona stars"/>](https://github.com/daytonaio/daytona/stargazers) | AGPL-3.0 | **AI Agent Sandbox**: Secure, elastic sub-90ms sandbox creation for code execution. |
